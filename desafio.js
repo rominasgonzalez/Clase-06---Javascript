@@ -8,4 +8,5 @@
    console.log(listaHamburguesa.length);
  }while(listaHamburguesa.length != cantidad) {
    alert("Productos: " + listaHamburguesa);
+   
  }
